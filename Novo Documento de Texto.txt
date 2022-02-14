@@ -1,1 +1,2 @@
 1. Esse e nosso primeiro texto controlado pelo GIT.
+2. Tambem coloquei coisas para um segundo commit.
